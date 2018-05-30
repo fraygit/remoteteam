@@ -1,2 +1,5 @@
 remoteteam/obj/
 remoteteam/bin/
+remoteteam.data/bin/
+remoteteam.data/obj/
+.vs/
