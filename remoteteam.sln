@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remoteteam", "remoteteam\remoteteam.csproj", "{5C2066FC-D146-4473-BA81-325A6A132B8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remoteteam.data", "remoteteam.data\remoteteam.data.csproj", "{DBAC2F57-B1FF-4F00-A665-E68A2ADAE61C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C2066FC-D146-4473-BA81-325A6A132B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2066FC-D146-4473-BA81-325A6A132B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2066FC-D146-4473-BA81-325A6A132B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2066FC-D146-4473-BA81-325A6A132B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBAC2F57-B1FF-4F00-A665-E68A2ADAE61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAC2F57-B1FF-4F00-A665-E68A2ADAE61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAC2F57-B1FF-4F00-A665-E68A2ADAE61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAC2F57-B1FF-4F00-A665-E68A2ADAE61C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B006B42-3EFA-4926-9AC9-6BD12517B857}
+	EndGlobalSection
+EndGlobal
